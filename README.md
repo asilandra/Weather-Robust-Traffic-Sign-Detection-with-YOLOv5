@@ -18,11 +18,13 @@ This project implements a deep learning pipeline to improve the robustness of tr
 - **Results:** Achieved **0.961 mAP@0.5** and **0.931 mAP@[0.5:0.95]** on the validation set, demonstrating strong detection capabilities under simulated challenging conditions. This shows high precision and recall even with weather distortions.
 
 ![Training Results](outputs/results.png)
+
 *Training history showing precision, recall, and mAP curves.*
 
 | Example Validation Results |
 | :---: |
 | ![Validation Example 1](outputs/validation_batch.jpg) |
+
 | *Example predictions on validation images.* |
 
 ##  Project Structure
